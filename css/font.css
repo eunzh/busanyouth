@@ -1,0 +1,7 @@
+/*학교안심포스터*/
+@font-face {
+    font-family: 'SchoolSafetyPoster';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2511-1@1.0/HakgyoansimPosterB.woff2') format('woff2');
+    font-weight: normal;
+    font-display: swap;
+}
